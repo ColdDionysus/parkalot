@@ -1,0 +1,24 @@
+# ParkaLot – Django Backend Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Django
+Django==3.1.12
+asgiref==3.11.1
+sqlparse==0.2.4
+pytz==2026.1.post1
+
+# Django REST Framework
+djangorestframework==3.13.1
+djangorestframework-simplejwt==4.8.0
+PyJWT==2.12.1
+
+# MongoDB
+djongo==1.3.7
+pymongo==3.11.4
+dnspython==2.7.0
+
+# CORS
+django-cors-headers==3.11.0
+
+# Utilities
+typing_extensions==4.15.0
